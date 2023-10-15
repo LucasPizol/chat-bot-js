@@ -1,0 +1,3 @@
+*.html linguist-vendored=false
+*.javascript linguist-detectable=true
+
